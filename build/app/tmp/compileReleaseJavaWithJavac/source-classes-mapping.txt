@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/lareen/lareen_app/BuildConfig.java
+ com.lareen.lareen_app.BuildConfig
