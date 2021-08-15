@@ -29,6 +29,7 @@
 .packages
 .pub-cache/
 .pub/
+#for download aab apk from github
 #/build/
 
 # Web related

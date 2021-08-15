@@ -2784,8 +2784,8 @@ androidx.webkit.internal.WebkitToCompatConverter:
 kotlin.reflect.KTypeParameter
 androidx.core.text.PrecomputedTextCompat
 kotlin.jvm.functions.Function5
-kotlin.text.Regex$findAll$1
 kotlin.text.StringsKt__StringsKt
+kotlin.text.Regex$findAll$1
 kotlin.contracts.Returns
 io.flutter.Log:
     public void <init>()
